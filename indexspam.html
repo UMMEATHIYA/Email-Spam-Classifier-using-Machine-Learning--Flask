@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <title>EMAIL SPAM DETECTION</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        
+
+  
+        <style>
+                h1{
+                        border: 5px solid rgb(56, 156, 218);
+                        background-color: lightskyblue;
+                        padding:20px;
+                }
+                .form-group{
+                        width:30%;
+                        margin: 10px auto;
+                        padding:0px;
+                }
+
+                button[type=submit] {
+                color: white;
+                text-align: center;
+                margin: 30px;
+                display: block;
+                margin-left: 44%;
+                width: 10%;
+                }
+
+                body{
+                        background-color:rgb(241, 241, 238);
+                }
+        
+                label{
+                        font-weight: bold;
+                }
+        
+                input[type="radio"]{
+                        margin: 0 20px 0 20px;
+                }
+        </style>
+    </head>
+<body bgcolor="lightGray">
+        <h1 align="center">EMAIL SPAM DETECTION</h1>
+        <h3 align="center">Enter your message below to check for spam or not</h3>
+    <form action="/predict" enctype="multipart/form-data" method="post"  accept-charset="UTF-8">
+        
+        <div class="form-group">
+                <label for="InputMessage">Message</label>
+                <input name="message" type="text" class="form-control" id="InputMessage"  placeholder="Enter your message">
+        </div>
+               <button type="submit" value="click" class="btn btn-primary">Submit</button>
+               
+    </form>
+    
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>
