@@ -1,5 +1,5 @@
 # Email-Spam-Classifier-using-Machine-Learning-Description:- 
-
+<h2><b>This project is developed using python programming language and Flask mainframe API, as well as dynamic Charts.js</b></h2>
 <h3><b>Problem Definition</b></h3>
 <ul>
 <li>Spams can crash mail servers & fill up hard drives.</li>
@@ -60,5 +60,9 @@
   <tr>
     <td>Top 10 Spam words </td>
     <td>call, free, txt, ur, u, mobile, text, stop, claim, reply. </td>
+  </tr>
+  <tr>
+    <td>Top Ham words</td>
+    <td>It, get, ok, go, got, know, like.</td>
   </tr>
   </table>
