@@ -24,3 +24,9 @@
   <li>The approach to determine the existence of common keywords in spam.</li>
   <li>Email Filtering.</li>
 </ul>
+<h3><b>Advantages</b></h3>
+<ul>
+  <li>Blocking Spam.</li>
+  <li>Quarantining Spam.</li>
+  <li>Reporting Spam.</li>
+</ul>
