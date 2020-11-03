@@ -36,10 +36,15 @@
   <li>Lemmatization.</li>
   <li>Removal of Stop Words.</li>
 </ul>
-<h3><b>Alogrithm</b></h3>
+<h3><b>Algorithm</b></h3>
 <h4><b>Multinomial Naive Bayes</b></h4>
 <ul>
   <li>Simple Probabilistic classifier that calculates a set of probabilities.</li>
   <li>By counting the frequency & combination of values in given dataset.</li>
   <li>Represented as a vector of feature values.</li>
 </ul>
+<h3><b>Dataset Description</b></h3>
+<table>
+  <tr>
+    <th>Attributes</th>
+    <th colspan="3">Values</th>
