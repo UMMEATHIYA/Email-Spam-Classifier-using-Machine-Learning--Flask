@@ -44,10 +44,10 @@
   <li>Represented as a vector of feature values.</li>
 </ul>
 <h3><b>Dataset Description</b></h3>
-<table>
+<table colspan="8">
   <tr>
-    <th colspan="5">Attributes</th>
-    <th colspan="8">Values</th>
+    <th>Attributes</th>
+    <th>Values</th>
   </tr>
   <tr>
     <td>Data</td>
