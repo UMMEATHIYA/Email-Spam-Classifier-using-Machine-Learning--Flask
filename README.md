@@ -57,4 +57,8 @@
     <td>Target </td>
     <td>Ham(1)- 4825, Spam(0)-747.</td>
   </tr>
+  <tr>
+    <td>Top 10 Spam words </td>
+    <td>call, free, txt, ur, u, mobile, text, stop, claim, reply. </td>
+  </tr>
   </table>
