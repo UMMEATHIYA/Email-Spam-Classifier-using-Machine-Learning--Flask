@@ -46,8 +46,8 @@
 <h3><b>Dataset Description</b></h3>
 <table>
   <tr>
-    <th>Attributes</th>
-    <th colspan="3">Values</th>
+    <th colspan="5">Attributes</th>
+    <th colspan="8">Values</th>
   </tr>
   <tr>
     <td>Data</td>
