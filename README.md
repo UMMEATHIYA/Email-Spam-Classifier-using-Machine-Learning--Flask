@@ -49,4 +49,8 @@
     <th>Attributes</th>
     <th rowspan="3">Values</th>
   </tr>
+  <tr>
+    <td>Data</td>
+    <td>Rows – 5572 & columns – 2.</td>
+  </tr>
   </table>
