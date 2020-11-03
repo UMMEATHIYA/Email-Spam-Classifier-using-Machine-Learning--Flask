@@ -44,7 +44,7 @@
   <li>Represented as a vector of feature values.</li>
 </ul>
 <h3><b>Dataset Description</b></h3>
-<table colspan="8">
+<table colspan="20">
   <tr>
     <th>Attributes</th>
     <th>Values</th>
