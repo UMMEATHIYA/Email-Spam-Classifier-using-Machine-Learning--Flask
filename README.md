@@ -48,3 +48,5 @@
   <tr>
     <th>Attributes</th>
     <th rowspan="3">Values</th>
+  </tr>
+  </table>
