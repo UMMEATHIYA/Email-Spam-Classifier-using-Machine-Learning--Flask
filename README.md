@@ -13,3 +13,9 @@
   <li>To give knowledge to the user about the fake e-mails & relevant e-mails.</li>
   <li>To classify that mail spam or not.</li> 
 </ul>
+<h3><b>Exisitng System</b></h3><br>
+<ul>
+  <li>Email has become one of the most important forms of communication.</li>
+  <li>Links in spam emails lead websites with malware or phishing schemes.
+</li>
+</ul>
