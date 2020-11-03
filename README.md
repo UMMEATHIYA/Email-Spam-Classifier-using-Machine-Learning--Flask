@@ -53,4 +53,8 @@
     <td>Data</td>
     <td>Rows – 5572 & columns – 2.</td>
   </tr>
+  <tr>
+    <td>Target </td>
+    <td>Ham(1)- 4825, Spam(0)-747.</td>
+  </tr>
   </table>
