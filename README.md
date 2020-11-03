@@ -47,7 +47,7 @@
 <table>
   <tr>
     <th>Attributes</th>
-    <th rowspan="3">Values</th>
+    <th colspan="3">Values</th>
   </tr>
   <tr>
     <td>Data</td>
